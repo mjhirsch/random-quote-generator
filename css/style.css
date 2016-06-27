@@ -1,0 +1,39 @@
+.body{
+  /*background-color: #043227;*/
+  height: 100vw;
+}
+
+.whiteText{
+	color: white;
+}
+
+.backgroundColor{
+  background-color: #043227;
+}
+
+.color{
+	color: #043227;
+}
+
+.quote{
+	padding: 50px;
+	font-size: 20pt;
+	margin-top: 150px;
+ 	border-radius: 3pt;
+ 	background-color: white;
+}
+
+.quoteAuthor{
+	font-size: 15pt;
+	color: gray;
+}
+
+a:visited{
+	color: white;
+}
+
+h4{
+	color: white;
+	margin-top: 50px;
+}
+
